@@ -1,0 +1,13 @@
+{
+  "name": "times-three",
+  "version": "1.1.0",
+  "type": "module",
+  "description": "multiplies a number by three",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
