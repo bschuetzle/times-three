@@ -1,10 +1,24 @@
 {
   "name": "times-three",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "module",
   "description": "multiplies a number by three",
   "main": "index.js",
   "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bschuetzle/times-three.git"
+  },
+  "keywords": [
+    "math",
+    "multiplication",
+    "utility",
+    "typescript"
+  ],
+  "homepage": "https://github.com/bschuetzle/times-three#readme",
+  "bugs": {
+    "url": "https://github.com/bschuetzle/times-three/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
